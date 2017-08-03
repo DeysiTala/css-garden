@@ -3,12 +3,14 @@
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
+
 }
 
 body {
-   background-color: lightblue;
-  opacity: 2.0;
+  
+  background-color: lightblue;*/
   margin: 25px;
+  
  /* border-width: #C16CF5;
   border-style: groove;
   border-width: 10px;
@@ -27,7 +29,27 @@ h1{
 	text-align: center;;
     background-color: #E0F1E4;
 }
+h2, h3{
 
+  color: #8DD62A
+  
+}
+div.requirements{
+   border: 10px outset #cccccc;
+   background-color: #cccccc;
+}
+
+footer{
+  text-align: center;
+  font-size: 2em;
+
+}
+
+.sidebar{
+  font-weight: bold;
+  font-size: 1.5em;
+}
+ 
 /*.wrapper{
 
 	background-color: #D19CF1;
