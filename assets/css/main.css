@@ -1,0 +1,51 @@
+/* Agrega aquí tus estilos*/
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+   background-color: lightblue;
+  opacity: 2.0;
+  margin: 25px;
+ /* border-width: #C16CF5;
+  border-style: groove;
+  border-width: 10px;
+*/
+}
+
+/*.intro{
+	background-color:  ; 
+}*/
+p{
+	font-family: sans-serif;
+}
+h1{
+	color:#F5816C;
+	font-size: 4em;
+	text-align: center;;
+    background-color: #E0F1E4;
+}
+
+/*.wrapper{
+
+	background-color: #D19CF1;
+	opacity: 4.0;
+}*/
+
+
+ .design-selection li, .zen-resources li, .design-archives li {
+    float: left;
+    width: 50%;
+    padding: 1.5em 10%;
+    border-top: solid 1px #d9e3dc;
+    background-color: coral;
+  	color: white;
+  	opacity: 0.5;
+    font-style: italic;
+}
+.sidebar{
+
+	background-image: url(https://www.google.com.pe/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjIjJ2nnLrVAhVLRSYKHbQDB-cQjRwIBw&url=https%3A%2F%2Fwww.creativosonline.org%2Fblog%2Fcategory%2Fcss&psig=AFQjCNECeX7k6BFlxB-E4unDIHXm0dfJ5A&ust=1501820718956563);
+}
